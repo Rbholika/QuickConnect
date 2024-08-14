@@ -3,13 +3,13 @@
 QuickConnect is a video chat application that allows users to connect and interact via live video streams. Hosted on AWS Cloud, QuickConnect provides scalable and reliable performance.
 
 ## Photo
-###Home
+### Home
 ![QuickConnect Home](home.png)
 
-###Permissions
+### Permissions
 ![QuickConnect Permission](permission.png)
 
-###Interface
+### Interface
 ![QuickConnect interface](interface.png)
 
 ## Features
